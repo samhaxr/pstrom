@@ -1,5 +1,5 @@
-rm /usr/bin/pstrom > /dev/null 2>&1
+rm /usr/bin/pstorm > /dev/null 2>&1
 sleep 1
 chmod +x pocket.sh
-cp pocket.sh /usr/local/bin/pstrom
+cp pocket.sh /usr/local/bin/pstorm
 exit 1
