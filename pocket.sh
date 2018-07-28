@@ -10,7 +10,7 @@ rm /tmp/cout
 }
 r_content > /dev/null 2>&1
 clear
-figlet PocketStorm
+figlet PocketStrom
 echo -e "\033[0;32mby @Sulemanmalik_3                        			v1.0\033[0m"
 br
 echo "Search String: "
