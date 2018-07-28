@@ -1,3 +1,8 @@
+# !/usr/bin/
+# coding=utf-8
+# !Author: Suleman Malik
+# !Contact: samhax@protonmail.com
+
 br(){
 	echo -e "\033[0;31m----------------------------------------------------------------------\033[0m"
 }
